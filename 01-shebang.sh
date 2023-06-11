@@ -19,3 +19,7 @@
     # *  ./scriptName
 
 echo  Welcome to Batch54 Cloud DevOps Training
+
+# Printing multiple line
+echo line1
+echo line2
