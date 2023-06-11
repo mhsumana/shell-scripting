@@ -25,3 +25,7 @@
  echo -e "\e[32m I am printing green color \e[0m"
  echo -e "\e[91m I am printing light red color \e[0m"
  echo -e "\e[37m I am printing light gray color \e[0m"
+
+ # Printing background color
+
+ echo -e "\e[37;91m I am printing light red color \e[0m"
