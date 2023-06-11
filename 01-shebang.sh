@@ -17,4 +17,5 @@
     # *  bash scriptName.sh
     # *  sh scripName.sh
     # *  ./scriptName
-    
+
+echo  Welcome to Batch54 Cloud DevOps Training
