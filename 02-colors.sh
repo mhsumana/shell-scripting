@@ -28,4 +28,4 @@
 
  # Printing background color
 
- echo -e "\e[32;91m I am printing light red color with green backgrounf \e[0m"
+ echo -e "\e[32;91m I am printing light red color with green background \e[0m"
