@@ -33,3 +33,4 @@ echo -e "line1\nline2"
 
 echo -e "line1\n\tline2"
 
+echo -e "line\t\line2"
