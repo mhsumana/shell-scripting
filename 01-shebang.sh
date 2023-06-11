@@ -23,3 +23,12 @@ echo  Welcome to Batch54 Cloud DevOps Training
 # Printing multiple line
 echo line1
 echo line2
+
+# In bash, we have escape sequence characters, using that we can add some power to the echo 
+
+#  \n  : new line
+# \t   : tab space
+
+echo -e "line1/nline2"
+echo -e "line1/n/tline2"
+echo -e "line/tline2"
