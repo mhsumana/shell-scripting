@@ -1,5 +1,5 @@
 # shell-scripting
-This is a repository to learn and automate the roboshop project using the bash scripting
+This is a repository to learn and automate the roboshop project using the bash scripting.
 
 Each and every repository will have a README.md file to describe what the repository us. 
 
