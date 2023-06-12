@@ -16,6 +16,7 @@
 a=10 
 b=20
 c=30
+d=15
 
 # Syntax: $variableName : $ is going to print the value of the variable
 echo $a 
@@ -23,4 +24,5 @@ echo -e "Value of the variable a is \e[32m $a \e[0m"
 echo -e "Value of the variable b is \e[33m $b \e[0m"
 echo -e "Value of the variable c is \e[32m $c \e[0m"
 echo -e "Value of the variable d is \e[33m $d \e[0m"
+
 
