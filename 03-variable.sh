@@ -25,4 +25,9 @@ echo -e "Value of the variable b is \e[33m $b \e[0m"
 echo -e "Value of the variable c is \e[32m $c \e[0m"
 echo -e "Value of the variable d is \e[33m $d \e[0m"
 
+# If you try to print a variable that is not declared, bash will consider that as a null rather an error
+
+# rm -rf /data/${FOLDER_TO_DELETE}/ => rm -rf /data 
+#(if you dont declare the value folder to delete then it will data folder which is a mess. 
+# Hence you should always declare the variable)
 
