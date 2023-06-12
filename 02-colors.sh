@@ -29,3 +29,6 @@
  # Printing background color
 
  echo -e "\e[43;32m I am printing Green Color with Yello Background \e[0m"
+
+ echo -e "\e[34;33m I am printing yellow color with blue background \e[0m"
+ 
